@@ -81,9 +81,9 @@ This module focuses on:
 ## 🏆 Smart India Hackathon 2025
 
 - **Event:** Smart India Hackathon (SIH) 2025 
-- **Team Name** DigiShakti
-- **PS ID** SIH 25142
-- **Problem Statement** Prediction of satellite tracking along with space weather acivity forecasting (CME & Geomagnetic Storm Prediction)
+- **Team Name:** DigiShakti
+- **PS ID:** SIH 25142
+- **Problem Statement:** Prediction of satellite tracking along with space weather acivity forecasting (CME & Geomagnetic Storm Prediction)
 - **Status:** 🥇 Winner  
 - **Location:** Mysuru, Karnataka 
 - **Theme:** Space Technology / Satellite Applications
