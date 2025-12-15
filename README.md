@@ -72,9 +72,6 @@ This module focuses on:
 - **Lakshya Sharma**  
 - **Deepak Singh**
 - **Mayank Saini**
-- **Lily Singhal**
-- **Garima Avasthi**
-- **Dhurv Saini**
 
 ---
 
