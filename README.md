@@ -96,6 +96,7 @@ This module focuses on:
   - Akshat Sharma: [Akshat's LinkedIn](https://www.linkedin.com/in/akshat-sharma-65b36b259/)
   - Lakshya Sharma: [Lakshya's LinkedIn](https://www.linkedin.com/in/lakshya107/) 
   - Deepak Singh: [Deepak's LinkedIn](https://www.linkedin.com/in/deepaksinghh12/)
+  - Mayank Saini: [Mayank's LinkedIn](https://www.linkedin.com/in/mayank-saini-a23b91203/)
 
 ---
 
