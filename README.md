@@ -10,7 +10,7 @@ The system visualizes satellite positions in real time using **CesiumJS**, lever
 
 ## 🚀 Project Overview
 
-SAT-TRACK is designed to:
+SATVEX is designed to:
 - Track satellites in real time
 - Predict future satellite positions
 - Improve orbital accuracy using ML-based correction models
@@ -113,7 +113,7 @@ This module focuses on:
 ## 📜 License
 
 This project is developed as part of **Smart India Hackathon 2025**.  
-All rights reserved © 2025 — Team SAT-TRACK
+All rights reserved © 2025 — Team DigiShakti
 
 ---
 
